@@ -1,1 +1,1 @@
-# RMI-Implementation
+School Project
