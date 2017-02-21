@@ -1,4 +1,4 @@
-package example.hello;
+package hello;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
